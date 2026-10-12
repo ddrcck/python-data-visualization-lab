@@ -7,9 +7,6 @@ A hands-on lab for exploring and visualizing data with Python.
 - Create and customize charts with Matplotlib.
 - Interpret data and save visualizations.
 
-## Technologies
-Python · Jupyter Notebook · pandas · Matplotlib
-
 ## Repository Contents
 - `Data_Visualization_with_Python.ipynb` — Lab exercises
 - `books.csv` — Dataset
@@ -21,12 +18,6 @@ Install dependencies:
 
 ```bash
 python -m pip install -r requirements.txt
-```
-
-Launch Jupyter Notebook:
-
-```bash
-jupyter notebook
 ```
 
 Open `Data_Visualization_with_Python.ipynb` and run the cells in order. Keep `books.csv` in the same directory.
